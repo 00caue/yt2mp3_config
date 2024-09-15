@@ -1,3 +1,4 @@
 [start]
-https://youtube.com/playlist?list=PLDDSRfr9EMdbSAxwUuAFZ-SS7xVQ2NF2W&si=Dn2KYVCjOFRdX-7L
+https://youtube.com/playlist?list=PLDDSRfr9EMdZKYbgyQV8e03UqgIPIGzaC&si=nTQ-5esud9QZ8aEr
+https://youtube.com/playlist?list=PLDDSRfr9EMdbiJpTsjoqTzdKNyT9GGVRa&si=wNdlvqX6F3fPqDoO
 [end]
