@@ -1,7 +1,3 @@
 [start]
-https://youtube.com/playlist?list=PLDDSRfr9EMdY24lJwe-ZX0e9Unfh4nrh5&si=2c1AX3QbQPrAWsIt
-https://youtube.com/playlist?list=PLDDSRfr9EMdY_C0gEIZzQyXLHacWy_KQ9&si=1kLXs8h0QUeO89zg
-https://youtube.com/playlist?list=PLDDSRfr9EMdZKYbgyQV8e03UqgIPIGzaC&si=nTQ-5esud9QZ8aEr
-https://youtube.com/playlist?list=PLDDSRfr9EMdbiJpTsjoqTzdKNyT9GGVRa&si=wNdlvqX6F3fPqDoO
-https://www.youtube.com/playlist?list=PLHScTJ018REO22BBh8DKnmLFYTkdN9qHa
+https://www.youtube.com/playlist?list=PLDDSRfr9EMdY_C0gEIZzQyXLHacWy_KQ9
 [end]
